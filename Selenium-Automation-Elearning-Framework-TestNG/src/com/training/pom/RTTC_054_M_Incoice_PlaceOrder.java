@@ -14,7 +14,6 @@ public class RTTC_054_M_Incoice_PlaceOrder {
 		this.driver = driver; 
 		PageFactory.initElements(driver, this);
 	}
-	
 	@FindBy(id="input-username")
 	private WebElement userName; 
 	

@@ -128,7 +128,6 @@ public class RTTC_054_M_Admin_PlaceOrderForCustomer {
 			System.out.println("Warning: Products marked with *** are not available in the desired quantity or not in stock!");
 			Reporter.log("Products marked with *** are not available");
 		}
-		
 	} 
 }
 		

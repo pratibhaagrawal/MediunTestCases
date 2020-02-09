@@ -62,7 +62,6 @@ public class RTTC_053_M_Admin_GenerateInvoice_ChnageStatus {
 			// open the browser 
 			driver.get(baseUrl);
 			//extent = new ExtentReports(sy);
-		
 
 	}
 

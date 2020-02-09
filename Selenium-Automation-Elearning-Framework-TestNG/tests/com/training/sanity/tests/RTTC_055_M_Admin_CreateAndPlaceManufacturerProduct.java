@@ -51,7 +51,6 @@ public class RTTC_055_M_Admin_CreateAndPlaceManufacturerProduct {
 	public ScreenShot screenShot;
 	
 	@BeforeTest
-		
 		public void setUpBeforeClass() throws IOException {
 			properties = new Properties();
 			FileInputStream inStream = new FileInputStream("./resources/others.properties");

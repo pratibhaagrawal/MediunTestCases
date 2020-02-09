@@ -39,7 +39,6 @@ public class Medium_Admin_CreateNewGroup_RegisterUser {
 	private ScreenShot screenShot;
 
 	@BeforeTest
-		
 		public void setUpBeforeClass() throws IOException {
 			properties = new Properties();
 			FileInputStream inStream = new FileInputStream("./resources/others.properties");

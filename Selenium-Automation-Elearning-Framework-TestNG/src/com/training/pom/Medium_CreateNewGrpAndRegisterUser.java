@@ -14,7 +14,6 @@ public class Medium_CreateNewGrpAndRegisterUser {
 		this.driver = driver; 
 		PageFactory.initElements(driver, this);
 	}
-	
 	@FindBy(id="input-username")
 	private WebElement userName; 
 	

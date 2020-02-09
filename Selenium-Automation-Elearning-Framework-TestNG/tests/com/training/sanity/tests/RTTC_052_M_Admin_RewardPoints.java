@@ -45,7 +45,6 @@ public class RTTC_052_M_Admin_RewardPoints {
 	private static Properties properties;
 	private ScreenShot screenShot;
 
-
 	@BeforeTest
 		
 		public void setUpBeforeClass() throws IOException {
