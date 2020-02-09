@@ -98,6 +98,5 @@ public class RTTC_052_M_RewardPts {
 	public void clickLoginBtn() {
 		this.loginBtn.click(); 
 	}
-
 }
 

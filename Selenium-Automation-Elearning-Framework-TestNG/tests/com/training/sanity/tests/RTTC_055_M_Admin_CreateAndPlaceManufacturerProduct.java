@@ -120,7 +120,6 @@ public class RTTC_055_M_Admin_CreateAndPlaceManufacturerProduct {
 		Assert.assertEquals(Success, "Success: You have modified products!");
 		screenShot.captureScreenShot("product.png");
 		Reporter.log("Success: You have modified products!");
-		
 	} 
 }
 		

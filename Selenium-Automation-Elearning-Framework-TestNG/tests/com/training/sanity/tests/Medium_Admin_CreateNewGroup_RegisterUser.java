@@ -130,7 +130,6 @@ public class Medium_Admin_CreateNewGroup_RegisterUser {
 			screenShot.captureScreenShot("Message1.png");
 		}
 
-		
 	}
 }
 		

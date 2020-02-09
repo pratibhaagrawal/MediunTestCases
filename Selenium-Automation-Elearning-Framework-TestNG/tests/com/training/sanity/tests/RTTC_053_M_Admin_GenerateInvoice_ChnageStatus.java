@@ -51,7 +51,6 @@ public class RTTC_053_M_Admin_GenerateInvoice_ChnageStatus {
 	@BeforeTest
 		
 		public void setUpBeforeClass() throws IOException {
-		
 			properties = new Properties();
 			FileInputStream inStream = new FileInputStream("./resources/others.properties");
 			properties.load(inStream);

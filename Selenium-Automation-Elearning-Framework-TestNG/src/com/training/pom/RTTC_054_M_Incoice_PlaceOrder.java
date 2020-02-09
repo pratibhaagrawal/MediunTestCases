@@ -139,7 +139,6 @@ public class RTTC_054_M_Incoice_PlaceOrder {
 		Select pay = new  Select (driver.findElement(By.id("input-payment-method")));
 		pay.selectByValue("cod");
 	}
-	
 	public void PaymentModeElse() {
 		this.PaymentMethod.click();
 		Select payelse = new  Select (driver.findElement(By.id("input-payment-method")));

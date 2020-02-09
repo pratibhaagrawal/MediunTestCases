@@ -119,8 +119,7 @@ public class RTTC_055_M_ManufacturerProduct {
 		this.PaymentMethod.click();
 		Select payelse = new  Select (driver.findElement(By.id("input-payment-method")));
 		payelse.selectByValue("free_checkout");
-	} */
-		
+	} */	
 }
 
 

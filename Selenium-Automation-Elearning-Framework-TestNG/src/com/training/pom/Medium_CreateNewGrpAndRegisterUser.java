@@ -119,7 +119,6 @@ public class Medium_CreateNewGrpAndRegisterUser {
 		this.loginBtn.click(); 
 	}
 	
-		
 	public void privilegedCustGrp() {
 		this.CustGrpName.click();
 		Select drpdownCustGrp = new  Select (driver.findElement(By.id("input-customer-group")));
